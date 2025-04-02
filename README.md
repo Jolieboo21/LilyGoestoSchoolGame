@@ -7,10 +7,10 @@ Dưới đây là một số hình ảnh minh họa giao diện của trò chơi
 <table>
   <tr>
     <td align="center">
-      <img src="images/mainmenu.png" alt="Minh hoa" width="200"/>
+      <img src="images/mainmenu.png" alt="Minh hoa" width="400"/>
     </td>
     <td align="center">
-      <img src="images/Game.png" alt="Man hinh chinh" width="200"/>
+      <img src="images/Game.png" alt="Man hinh chinh" width="400"/>
     </td>
 </table>
 
