@@ -12,11 +12,16 @@ Dưới đây là một số hình ảnh minh họa giao diện của trò chơi
     <td align="center">
       <img src="images/Game.png" alt="Man hinh chinh" width="200"/>
     </td>
+</table>
+
+## Nguyên lí hoạt động
+<table>
+  <tr>
     <td align="center">
-      <img src="images/Cu chi.png" alt="Man hinh chinh" width="200"/>
+      <img src="images/Cu chi.png" alt="Man hinh chinh" width="400"/>
     </td>
     <td align="center">
-      <img src="images/VanHanh.png" alt="Man hinh chinh" width="200"/>
+      <img src="images/VanHanh.png" alt="Man hinh chinh" width="400"/>
     </td>
   </tr>
 </table>
