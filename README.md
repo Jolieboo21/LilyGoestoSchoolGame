@@ -13,6 +13,9 @@ Dưới đây là một số hình ảnh minh họa giao diện của trò chơi
       <img src="images/Game.png" alt="Man hinh chinh" width="200"/>
     </td>
     <td align="center">
+      <img src="images/Cu chi.png" alt="Man hinh chinh" width="200"/>
+    </td>
+    <td align="center">
       <img src="images/VanHanh.png" alt="Man hinh chinh" width="200"/>
     </td>
   </tr>
